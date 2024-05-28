@@ -1,0 +1,245 @@
+[
+  {
+    "id": "P49",
+    "type": "Product",
+    "properties": {
+      "name": "Modern Sofa",
+      "price": 850,
+      "category_id": "CAT2"
+    }
+  },
+  {
+    "id": "P50",
+    "type": "Product",
+    "properties": {
+      "name": "Coffee Table",
+      "price": 200,
+      "category_id": "CAT2"
+    }
+  },
+  {
+    "id": "P51",
+    "type": "Product",
+    "properties": {
+      "name": "Bookshelf",
+      "price": 150,
+      "category_id": "CAT2"
+    }
+  },
+  {
+    "id": "P52",
+    "type": "Product",
+    "properties": {
+      "name": "Office Chair",
+      "price": 120,
+      "category_id": "CAT2"
+    }
+  },
+  {
+    "id": "P53",
+    "type": "Product",
+    "properties": {
+      "name": "Dining Set",
+      "price": 999,
+      "category_id": "CAT2"
+    }
+  },
+  {
+    "id": "P54",
+    "type": "Product",
+    "properties": {
+      "name": "Recliner",
+      "price": 400,
+      "category_id": "CAT2"
+    }
+  },
+  {
+    "id": "P55",
+    "type": "Product",
+    "properties": {
+      "name": "Wardrobe",
+      "price": 550,
+      "category_id": "CAT2"
+    }
+  },
+  {
+    "id": "P56",
+    "type": "Product",
+    "properties": {
+      "name": "Wall Decor",
+      "price": 145,
+      "category_id": "CAT2"
+    }
+  },
+  {
+    "id": "P57",
+    "type": "Product",
+    "properties": {
+      "name": "TV Stand",
+      "price": 299,
+      "category_id": "CAT2"
+    }
+  },
+  {
+    "id": "P58",
+    "type": "Product",
+    "properties": {
+      "name": "Lounge Chair",
+      "price": 350,
+      "category_id": "CAT2"
+    }
+  },
+  {
+    "id": "P59",
+    "type": "Product",
+    "properties": {
+      "name": "Patio Set",
+      "price": 800,
+      "category_id": "CAT2"
+    }
+  },
+  {
+    "id": "P60",
+    "type": "Product",
+    "properties": {
+      "name": "Bar Stool",
+      "price": 95,
+      "category_id": "CAT2"
+    }
+  },
+  {
+    "id": "P61",
+    "type": "Product",
+    "properties": {
+      "name": "Night Stand",
+      "price": 89,
+      "category_id": "CAT2"
+    }
+  },
+  {
+    "id": "P62",
+    "type": "Product",
+    "properties": {
+      "name": "Desk",
+      "price": 210,
+      "category_id": "CAT2"
+    }
+  },
+  {
+    "id": "P63",
+    "type": "Product",
+    "properties": {
+      "name": "Chaise Lounge",
+      "price": 560,
+      "category_id": "CAT2"
+    }
+  },
+  {
+    "id": "P64",
+    "type": "Product",
+    "properties": {
+      "name": "Swivel Chair",
+      "price": 130,
+      "category_id": "CAT2"
+    }
+  },
+  {
+    "id": "P65",
+    "type": "Product",
+    "properties": {
+      "name": "Corner Sofa",
+      "price": 900,
+      "category_id": "CAT2"
+    }
+  },
+  {
+    "id": "P66",
+    "type": "Product",
+    "properties": {
+      "name": "Ottoman",
+      "price": 76,
+      "category_id": "CAT2"
+    }
+  },
+  {
+    "id": "P67",
+    "type": "Product",
+    "properties": {
+      "name": "Accent Chair",
+      "price": 320,
+      "category_id": "CAT2"
+    }
+  },
+  {
+    "id": "P68",
+    "type": "Product",
+    "properties": {
+      "name": "Outdoor Bench",
+      "price": 299,
+      "category_id": "CAT2"
+    }
+  },
+  {
+    "id": "P69",
+    "type": "Product",
+    "properties": {
+      "name": "Convertible Sofa",
+      "price": 500,
+      "category_id": "CAT2"
+    }
+  },
+  {
+    "id": "P70",
+    "type": "Product",
+    "properties": {
+      "name": "Glass End Table",
+      "price": 190,
+      "category_id": "CAT2"
+    }
+  },
+  {
+    "id": "P71",
+    "type": "Product",
+    "properties": {
+      "name": "Hall Tree",
+      "price": 399,
+      "category_id": "CAT2"
+    }
+  },
+  {
+    "id": "P72",
+    "type": "Product",
+    "properties": {
+      "name": "Bean Bag",
+      "price": 75,
+      "category_id": "CAT2"
+    }
+  },
+  {
+    "id": "P73",
+    "type": "Product",
+    "properties": {
+      "name": "Vanity Set",
+      "price": 450,
+      "category_id": "CAT2"
+    }
+  },
+  {
+    "id": "P74",
+    "type": "Product",
+    "properties": {
+      "name": "Floating Shelves",
+      "price": 105,
+      "category_id": "CAT2"
+    }
+  },
+  {
+    "id": "P75",
+    "type": "Product",
+    "properties": {
+      "name": "Foldable Study Desk",
+      "price": 220,
+      "category_id": "CAT2"
+    }
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "id": "E328",
+    "type": "Relationship",
+    "label": "HAS_IN_CART",
+    "source": "C12",
+    "target": "P71"
+  },
+  {
+    "id": "E329",
+    "type": "Relationship",
+    "label": "HAS_IN_CART",
+    "source": "C23",
+    "target": "P63"
+  },
+  {
+    "id": "E330",
+    "type": "Relationship",
+    "label": "HAS_IN_CART",
+    "source": "C7",
+    "target": "P66"
+  },
+  {
+    "id": "E331",
+    "type": "Relationship",
+    "label": "HAS_IN_CART",
+    "source": "C41",
+    "target": "P75"
+  },
+  {
+    "id": "E332",
+    "type": "Relationship",
+    "label": "HAS_IN_CART",
+    "source": "C37",
+    "target": "P72"
+  },
+  {
+    "id": "E333",
+    "type": "Relationship",
+    "label": "HAS_IN_CART",
+    "source": "C11",
+    "target": "P74"
+  },
+  {
+    "id": "E334",
+    "type": "Relationship",
+    "label": "HAS_IN_CART",
+    "source": "C48",
+    "target": "P58"
+  },
+  {
+    "id": "E335",
+    "type": "Relationship",
+    "label": "HAS_IN_CART",
+    "source": "C5",
+    "target": "P69"
+  },
+  {
+    "id": "E336",
+    "type": "Relationship",
+    "label": "HAS_IN_CART",
+    "source": "C19",
+    "target": "P70"
+  },
+  {
+    "id": "E337",
+    "type": "Relationship",
+    "label": "HAS_IN_CART",
+    "source": "C21",
+    "target": "P56"
+  },
+  {
+    "id": "E338",
+    "type": "Relationship",
+    "label": "HAS_IN_CART",
+    "source": "C2",
+    "target": "P59"
+  },
+  {
+    "id": "E339",
+    "type": "Relationship",
+    "label": "HAS_IN_CART",
+    "source": "C49",
+    "target": "P60"
+  },
+  {
+    "id": "E340",
+    "type": "Relationship",
+    "label": "HAS_IN_CART",
+    "source": "C14",
+    "target": "P50"
+  },
+  {
+    "id": "E341",
+    "type": "Relationship",
+    "label": "HAS_IN_CART",
+    "source": "C15",
+    "target": "P55"
+  },
+  {
+    "id": "E342",
+    "type": "Relationship",
+    "label": "HAS_IN_CART",
+    "source": "C16",
+    "target": "P64"
+  },
+  {
+    "id": "E343",
+    "type": "Relationship",
+    "label": "HAS_IN_CART",
+    "source": "C30",
+    "target": "P54"
+  },
+  {
+    "id": "E344",
+    "type": "Relationship",
+    "label": "HAS_IN_CART",
+    "source": "C35",
+    "target": "P65"
+  },
+  {
+    "id": "E345",
+    "type": "Relationship",
+    "label": "HAS_IN_CART",
+    "source": "C32",
+    "target": "P62"
+  },
+  {
+    "id": "E346",
+    "type": "Relationship",
+    "label": "HAS_IN_CART",
+    "source": "C1",
+    "target": "P67"
+  },
+  {
+    "id": "E347",
+    "type": "Relationship",
+    "label": "HAS_IN_CART",
+    "source": "C18",
+    "target": "P68"
+  },
+  {
+    "id": "E348",
+    "type": "Relationship",
+    "label": "HAS_IN_CART",
+    "source": "C20",
+    "target": "P57"
+  },
+  {
+    "id": "E349",
+    "type": "Relationship",
+    "label": "HAS_IN_CART",
+    "source": "C40",
+    "target": "P61"
+  },
+  {
+    "id": "E350",
+    "type": "Relationship",
+    "label": "HAS_IN_CART",
+    "source": "C29",
+    "target": "P49"
+  },
+  {
+    "id": "E351",
+    "type": "Relationship",
+    "label": "HAS_IN_CART",
+    "source": "C24",
+    "target": "P52"
+  },
+  {
+    "id": "E352",
+    "type": "Relationship",
+    "label": "HAS_IN_CART",
+    "source": "C10",
+    "target": "P51"
+  },
+  {
+    "id": "E353",
+    "type": "Relationship",
+    "label": "HAS_IN_CART",
+    "source": "C42",
+    "target": "P53"
+  }
+]

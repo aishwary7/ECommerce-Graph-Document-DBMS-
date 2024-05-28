@@ -1,0 +1,191 @@
+[
+  {
+    "id": "E301",
+    "type": "Relationship",
+    "label": "BELONGS_TO",
+    "source": "P49",
+    "target": "CAT2"
+  },
+  {
+    "id": "E302",
+    "type": "Relationship",
+    "label": "BELONGS_TO",
+    "source": "P50",
+    "target": "CAT2"
+  },
+  {
+    "id": "E303",
+    "type": "Relationship",
+    "label": "BELONGS_TO",
+    "source": "P51",
+    "target": "CAT2"
+  },
+  {
+    "id": "E304",
+    "type": "Relationship",
+    "label": "BELONGS_TO",
+    "source": "P52",
+    "target": "CAT2"
+  },
+  {
+    "id": "E305",
+    "type": "Relationship",
+    "label": "BELONGS_TO",
+    "source": "P53",
+    "target": "CAT2"
+  },
+  {
+    "id": "E306",
+    "type": "Relationship",
+    "label": "BELONGS_TO",
+    "source": "P54",
+    "target": "CAT2"
+  },
+  {
+    "id": "E307",
+    "type": "Relationship",
+    "label": "BELONGS_TO",
+    "source": "P55",
+    "target": "CAT2"
+  },
+  {
+    "id": "E308",
+    "type": "Relationship",
+    "label": "BELONGS_TO",
+    "source": "P56",
+    "target": "CAT2"
+  },
+  {
+    "id": "E309",
+    "type": "Relationship",
+    "label": "BELONGS_TO",
+    "source": "P57",
+    "target": "CAT2"
+  },
+  {
+    "id": "E310",
+    "type": "Relationship",
+    "label": "BELONGS_TO",
+    "source": "P58",
+    "target": "CAT2"
+  },
+  {
+    "id": "E311",
+    "type": "Relationship",
+    "label": "BELONGS_TO",
+    "source": "P59",
+    "target": "CAT2"
+  },
+  {
+    "id": "E312",
+    "type": "Relationship",
+    "label": "BELONGS_TO",
+    "source": "P60",
+    "target": "CAT2"
+  },
+  {
+    "id": "E313",
+    "type": "Relationship",
+    "label": "BELONGS_TO",
+    "source": "P61",
+    "target": "CAT2"
+  },
+  {
+    "id": "E314",
+    "type": "Relationship",
+    "label": "BELONGS_TO",
+    "source": "P62",
+    "target": "CAT2"
+  },
+  {
+    "id": "E315",
+    "type": "Relationship",
+    "label": "BELONGS_TO",
+    "source": "P63",
+    "target": "CAT2"
+  },
+  {
+    "id": "E316",
+    "type": "Relationship",
+    "label": "BELONGS_TO",
+    "source": "P64",
+    "target": "CAT2"
+  },
+  {
+    "id": "E317",
+    "type": "Relationship",
+    "label": "BELONGS_TO",
+    "source": "P65",
+    "target": "CAT2"
+  },
+  {
+    "id": "E318",
+    "type": "Relationship",
+    "label": "BELONGS_TO",
+    "source": "P66",
+    "target": "CAT2"
+  },
+  {
+    "id": "E319",
+    "type": "Relationship",
+    "label": "BELONGS_TO",
+    "source": "P67",
+    "target": "CAT2"
+  },
+  {
+    "id": "E320",
+    "type": "Relationship",
+    "label": "BELONGS_TO",
+    "source": "P68",
+    "target": "CAT2"
+  },
+  {
+    "id": "E321",
+    "type": "Relationship",
+    "label": "BELONGS_TO",
+    "source": "P69",
+    "target": "CAT2"
+  },
+  {
+    "id": "E322",
+    "type": "Relationship",
+    "label": "BELONGS_TO",
+    "source": "P70",
+    "target": "CAT2"
+  },
+  {
+    "id": "E323",
+    "type": "Relationship",
+    "label": "BELONGS_TO",
+    "source": "P71",
+    "target": "CAT2"
+  },
+  {
+    "id": "E324",
+    "type": "Relationship",
+    "label": "BELONGS_TO",
+    "source": "P72",
+    "target": "CAT2"
+  },
+  {
+    "id": "E325",
+    "type": "Relationship",
+    "label": "BELONGS_TO",
+    "source": "P73",
+    "target": "CAT2"
+  },
+  {
+    "id": "E326",
+    "type": "Relationship",
+    "label": "BELONGS_TO",
+    "source": "P74",
+    "target": "CAT2"
+  },
+  {
+    "id": "E327",
+    "type": "Relationship",
+    "label": "BELONGS_TO",
+    "source": "P75",
+    "target": "CAT2"
+  }
+]

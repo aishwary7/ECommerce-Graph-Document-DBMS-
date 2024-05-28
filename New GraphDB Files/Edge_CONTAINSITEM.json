@@ -1,0 +1,177 @@
+[
+  {
+    "id": "E379",
+    "type": "Relationship",
+    "label": "CONTAINS_ITEM",
+    "source": "O26",
+    "target": "P57"
+  },
+  {
+    "id": "E380",
+    "type": "Relationship",
+    "label": "CONTAINS_ITEM",
+    "source": "O27",
+    "target": "P59"
+  },
+  {
+    "id": "E381",
+    "type": "Relationship",
+    "label": "CONTAINS_ITEM",
+    "source": "O28",
+    "target": "P53"
+  },
+  {
+    "id": "E382",
+    "type": "Relationship",
+    "label": "CONTAINS_ITEM",
+    "source": "O29",
+    "target": "P64"
+  },
+  {
+    "id": "E383",
+    "type": "Relationship",
+    "label": "CONTAINS_ITEM",
+    "source": "O30",
+    "target": "P65"
+  },
+  {
+    "id": "E384",
+    "type": "Relationship",
+    "label": "CONTAINS_ITEM",
+    "source": "O31",
+    "target": "P69"
+  },
+  {
+    "id": "E385",
+    "type": "Relationship",
+    "label": "CONTAINS_ITEM",
+    "source": "O32",
+    "target": "P70"
+  },
+  {
+    "id": "E386",
+    "type": "Relationship",
+    "label": "CONTAINS_ITEM",
+    "source": "O33",
+    "target": "P71"
+  },
+  {
+    "id": "E387",
+    "type": "Relationship",
+    "label": "CONTAINS_ITEM",
+    "source": "O34",
+    "target": "P72"
+  },
+  {
+    "id": "E388",
+    "type": "Relationship",
+    "label": "CONTAINS_ITEM",
+    "source": "O35",
+    "target": "P73"
+  },
+  {
+    "id": "E389",
+    "type": "Relationship",
+    "label": "CONTAINS_ITEM",
+    "source": "O36",
+    "target": "P75"
+  },
+  {
+    "id": "E390",
+    "type": "Relationship",
+    "label": "CONTAINS_ITEM",
+    "source": "O37",
+    "target": "P74"
+  },
+  {
+    "id": "E391",
+    "type": "Relationship",
+    "label": "CONTAINS_ITEM",
+    "source": "O38",
+    "target": "P61"
+  },
+  {
+    "id": "E392",
+    "type": "Relationship",
+    "label": "CONTAINS_ITEM",
+    "source": "O39",
+    "target": "P63"
+  },
+  {
+    "id": "E393",
+    "type": "Relationship",
+    "label": "CONTAINS_ITEM",
+    "source": "O40",
+    "target": "P55"
+  },
+  {
+    "id": "E394",
+    "type": "Relationship",
+    "label": "CONTAINS_ITEM",
+    "source": "O41",
+    "target": "P56"
+  },
+  {
+    "id": "E395",
+    "type": "Relationship",
+    "label": "CONTAINS_ITEM",
+    "source": "O42",
+    "target": "P58"
+  },
+  {
+    "id": "E396",
+    "type": "Relationship",
+    "label": "CONTAINS_ITEM",
+    "source": "O43",
+    "target": "P62"
+  },
+  {
+    "id": "E397",
+    "type": "Relationship",
+    "label": "CONTAINS_ITEM",
+    "source": "O44",
+    "target": "P67"
+  },
+  {
+    "id": "E398",
+    "type": "Relationship",
+    "label": "CONTAINS_ITEM",
+    "source": "O45",
+    "target": "P68"
+  },
+  {
+    "id": "E399",
+    "type": "Relationship",
+    "label": "CONTAINS_ITEM",
+    "source": "O46",
+    "target": "P49"
+  },
+  {
+    "id": "E400",
+    "type": "Relationship",
+    "label": "CONTAINS_ITEM",
+    "source": "O47",
+    "target": "P50"
+  },
+  {
+    "id": "E401",
+    "type": "Relationship",
+    "label": "CONTAINS_ITEM",
+    "source": "O48",
+    "target": "P51"
+  },
+  {
+    "id": "E402",
+    "type": "Relationship",
+    "label": "CONTAINS_ITEM",
+    "source": "O49",
+    "target": "P52"
+  },
+  {
+    "id": "E403",
+    "type": "Relationship",
+    "label": "CONTAINS_ITEM",
+    "source": "O50",
+    "target": "P54"
+  }
+]
